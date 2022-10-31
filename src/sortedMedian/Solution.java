@@ -2,7 +2,7 @@ package sortedMedian;
 
 import java.util.Arrays;
 
-public class Solution {
+public class Solution {//q4
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
